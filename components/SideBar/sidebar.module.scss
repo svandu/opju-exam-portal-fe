@@ -1,0 +1,36 @@
+.menuContainer{
+   background-color:#FFFFFF;
+   height: 100vh;
+   padding: 6rem 0.5rem;
+   top: 0;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+         
+   .menu{
+      padding-left: 4rem;
+      color:#7A7272
+   }
+      .container{
+
+         .links{
+            list-style-type: none;  
+            
+            li {
+               padding: 1.2rem ;
+               font-size: 1.2rem;
+               width: 75%;
+
+            
+               
+            }
+            li:focus{
+               background-color: 	rgba(117, 140, 253, 0.47);
+               color:#4564FA;
+               border-left: 6px solid #4564FA ;
+
+               
+
+              
+            }
+         }
+      }
+   }
